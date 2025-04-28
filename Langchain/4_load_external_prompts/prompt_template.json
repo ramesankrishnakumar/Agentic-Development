@@ -1,0 +1,19 @@
+{
+    "name": null,
+    "input_variables": [
+        "company",
+        "lines",
+        "position",
+        "skill",
+        "tone"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    Write a {tone} email to {company} \n    expressing interest in the {position} position, \n    mentioning {skill} as a key strength. \n    Keep it to {lines} lines max\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

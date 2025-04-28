@@ -1,0 +1,29 @@
+I am a senior software engineer with a basic understanding of Python. I want to use Python, Langchain and Gemini LLM to develop multiple react agents that work together to solve a problem.
+
+
+
+Please provide a 1 day - 5 hour study plan to create a capstone project with exercises and quizzes along the way that help me in learning the skills and use the skill in capstone projects. This plan should cover all the necessary concepts for achieving my goal above.
+
+
+
+Here's what I need:
+
+
+
+Capstone Project: Suggest a capstone project, exercises and quizzes suitable for my goal and this project should be challenging but achievable within the given time.
+
+
+
+Study Plan Structure:
+
+
+
+Split the study plan into smaller section. In each section you will generate the concepts that I need to learn, with notes for future reference. Utilize exercises & quizzes to help me learn the concepts. Provide me the solutions / code required to complete the exercises and quizzes. At the end of the section help me build the capstone project using the concepts learned. Provide the solution / code for this as well.
+
+
+
+Key Concepts: List the essential concepts and technologies.
+
+
+
+Final Summary: Help me showcase the capstone project maybe few slides to what the concepts I've learned and the project that I've build
