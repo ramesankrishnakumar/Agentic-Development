@@ -2,3 +2,4 @@
 .idea/
 .venv/
 .qodo
+.DS_Store

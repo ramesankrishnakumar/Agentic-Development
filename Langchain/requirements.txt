@@ -10,6 +10,8 @@ wikipedia
 langchain-chroma
 pypdf
 pydantic
+numexpr
+duckduckgo-search
 
 
 

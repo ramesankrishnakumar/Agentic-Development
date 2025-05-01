@@ -43,3 +43,30 @@ llm_with_prompt = template | llm
 response = llm_with_prompt.invoke(input=values)
 
 print(response.content)
+
+template = ChatPromptTemplate([
+    {
+        "role": "system",
+        "content": "You are a helpful AI bot. Your name is {name}.",
+    },
+    {
+        "role": "human",
+        "content": "Hello, how are you doing?",
+    },
+    {
+        "role": "ai",
+        "content": "I'm doing well, thanks!",
+    },
+    {
+        "role": "human",
+        "content": "{user_input}",
+    },
+])
+
+# print(template.input_variables)
+
+llm_with_prompt = template | llm
+
+response = llm_with_prompt.invoke({ "name": "Bob", "user_input": "What is your name?" })
+
+print(response.content)
