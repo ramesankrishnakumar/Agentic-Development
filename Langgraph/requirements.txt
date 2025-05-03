@@ -1,3 +1,10 @@
+langchain-core
+langchain
+langchain-google-genai
+langchain-community
 langgraph
-
+ipython
+dotenv
+pytz
+langchain-chroma
 
